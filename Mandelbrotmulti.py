@@ -4,8 +4,6 @@ import multiprocessing
 import time
 
 #Initial the input variable
-
-
  
 def mandel(min_c_re,min_c_im,max_c_re,max_c_im,max_n,xaxis,yaxis,inputXmin,inputXmax,inputYmin,inputYmax,img):
 
