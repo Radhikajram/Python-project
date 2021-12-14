@@ -36,7 +36,7 @@ def mandel(inputXmin,inputXmax,inputYmin,inputYmax,img):
 start = time.perf_counter()
 
 #sequential execute the Mandelbrot function
-
+ 
 mandel(0,500,0,500,'image1')
 mandel(0,500,501,1000,'image2')
 mandel(501,1000,0,500,'image3')
